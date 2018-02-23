@@ -1,5 +1,4 @@
 A = input()
 B = input()
 
-
-print ("X = " & int(A) + int(B))
+print ("X =", int(A) + int(B))
